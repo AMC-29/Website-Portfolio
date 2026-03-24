@@ -1,6 +1,6 @@
 # 🌊 Personal Portfolio Website
 
-> A modern, luxury-inspired digital portfolio showcasing creativity, design, and personal brand identity.
+> A modern, luxury-inspired personal portfolio website designed to showcase creative work, personal branding, and a clean digital presence.
 
 🔗 **Live Website:**  
 https://agassi-marriott-croos-mx7ojzq.gamma.site/
@@ -9,7 +9,11 @@ https://agassi-marriott-croos-mx7ojzq.gamma.site/
 
 ## ✨ Overview
 
-This portfolio website is designed with a **premium, minimal, and visually immersive experience**, inspired by modern hospitality and luxury branding aesthetics.
+This project is a modern, visually immersive personal portfolio website crafted to reflect a strong sense of design, creativity, and professional identity. Inspired by luxury hospitality aesthetics, the interface emphasizes minimalism, elegance, and user-focused presentation.
+
+The portfolio is structured to deliver a seamless browsing experience, highlighting key sections such as personal introduction, featured work, and contact information with clarity and visual balance. Every element is designed to create a refined first impression while maintaining simplicity and usability.
+
+This project serves as both a personal branding platform and a design-focused prototype, demonstrating the ability to conceptualize and present a polished web experience
 
 It reflects:
 - 🎨 Creative design thinking  
