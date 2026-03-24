@@ -23,16 +23,16 @@ The goal is to create a **strong first impression** while maintaining simplicity
 ## 🖼️ Preview
 
 ### 🏠 Home Section
-![Home Screenshot](./screenshots/home.png)
+![Home Screenshot](./Screenshots/home.png)
 
 ### 🎯 About Section
-![About Screenshot](./screenshots/about.png)
+![About Screenshot](./Screenshots/about.png)
 
 ### 💼 Portfolio Section
-![Portfolio Screenshot](./screenshots/portfolio.png)
+![Portfolio Screenshot](./Screenshots/portfolio.png)
 
 ### 📞 Contact Section
-![Contact Screenshot](./screenshots/contact.png)
+![Contact Screenshot](./Screenshots/contact.png)
 
 ---
 
